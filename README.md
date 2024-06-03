@@ -1,2 +1,6 @@
 # Movie-genres-classification
-Проект по машинному обучению
+
+
+
+### Dataset:
+[Kaggle](https://www.kaggle.com/datasets/PromptCloudHQ/imdb-data)
