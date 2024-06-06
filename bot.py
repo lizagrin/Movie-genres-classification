@@ -6,7 +6,7 @@ from nltk.corpus import stopwords as nltk_stopwords
 from nltk.stem import SnowballStemmer
 from nltk.stem import WordNetLemmatizer
 
-TOKEN = '7386731157:AAEGchiIgeGWJbIvrHT9OjP3hf17pHzCeik'
+TOKEN = 'my_token'
 bot = telebot.TeleBot(TOKEN)
 
 
