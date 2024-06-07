@@ -5,9 +5,10 @@ You can check the operation of the model using a [telegram bot](https://t.me/mov
 
 
 ### Presentation:
+https://docs.google.com/presentation/d/1Fy3fhtKNm86AZt4w9S94XY4CKJI0KWlWWpRT2nywcp4/edit#slide=id.g2e364869c28_0_76
 
 ### Dataset:
-[dataset kaggle](https://www.kaggle.com/datasets/cryptexcode/mpst-movie-plot-synopses-with-tags?select=partition.json)
+https://www.kaggle.com/datasets/cryptexcode/mpst-movie-plot-synopses-with-tags?select=partition.json
 
 ### Model Training
 
