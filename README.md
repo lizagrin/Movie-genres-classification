@@ -9,6 +9,7 @@ https://docs.google.com/presentation/d/1Fy3fhtKNm86AZt4w9S94XY4CKJI0KWlWWpRT2nyw
 
 ### Dataset:
 https://www.kaggle.com/datasets/cryptexcode/mpst-movie-plot-synopses-with-tags?select=partition.json
+![plot](data/img.png)
 
 ### Model Training
 
